@@ -61,7 +61,7 @@ exports.config = {
 
     params: {
         email: "waheedahmed55@gmail.com",
-        password: ""
+        password: "abc"
     },
 
     framework: 'jasmine2',
